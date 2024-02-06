@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alata: Alata;
+  --font-myanmar-khyay: "Myanmar Khyay";
+  /* font sizes */
+  --font-size-lgi: 19px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-26xl: 45px;
+  --font-size-9xl: 28px;
+  --font-size-6xl: 25px;
+  --font-size-lg: 18px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-gray-300: rgba(255, 255, 255, 0.59);
+  --color-gray-100: rgba(0, 0, 0, 0.36);
+  --color-gray-200: rgba(255, 255, 255, 0.66);
+  --color-white: #fff;
+  --color-red-100: #ff0000;
+  --color-red-200: rgba(255, 0, 0, 0);
+  --color-gainsboro: rgba(217, 217, 217, 0.26);
+  --color-darkslategray: #414141;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+}

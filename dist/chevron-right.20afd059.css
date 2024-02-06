@@ -1,0 +1,12 @@
+.chevron-right {
+  border-radius: var(--br-5xs);
+  background-image: url("chevron-right@2x.1ec1af76.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 30px;
+  position: relative;
+}
+
+/*# sourceMappingURL=chevron-right.20afd059.css.map */
